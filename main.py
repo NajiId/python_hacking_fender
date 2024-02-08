@@ -35,3 +35,6 @@ with open('new_passwords.csv', 'w') as new_passwords_obj:
 \_)__)\____/\____/\____/
 '''
     new_passwords_obj.write(slash_null_sig)
+
+
+#https://github.com/NajiId/hacking_the_fender
